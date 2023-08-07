@@ -41,7 +41,7 @@ Removes a stopped container.
 
 Removes an image from the host machine.
 
-### docker pull
+## docker pull
 
 Downloads an image from the configured registry.
 

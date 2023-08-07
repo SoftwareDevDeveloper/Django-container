@@ -3,7 +3,7 @@ FROM ubuntu:latest
 # Set the working directory in the image
 WORKDIR /app
 
-# Copy the files from the host file system to the image file system
+# This will Copy the files from the host file system to the image file system
 COPY . /app
 
 # Install the necessary packages
